@@ -1,0 +1,230 @@
+{
+    "rootTab01": "市场表现",
+    "root01Item": [
+        {
+            "DispName": "换手率",
+            "Item": [
+                {
+                    "DispName": "一个月换手率",
+                    "DbField": "2",
+                    "Select": "0",
+                    "Weigth": "35"
+                },
+                {
+                    "DispName": "三个月换手率",
+                    "DbField": "2",
+                    "Select": "0",
+                    "Weigth": "35"
+                },
+                {
+                    "DispName": "六个月换手率",
+                    "DbField": "2",
+                    "Select": "0",
+                    "Weigth": "35"
+                },
+                {
+                    "DispName": "十二个月换手率",
+                    "DbField": "2",
+                    "Select": "0",
+                    "Weigth": "35"
+                }
+            ]
+        },
+        {
+            "DispName": "历史涨跌幅",
+            "Item": [
+                {
+                    "DispName": "历史Alpha",
+                    "DbField": "2",
+                    "Select": "0",
+                    "Weigth": "35"
+                },
+                {
+                    "DispName": "一个月涨跌幅",
+                    "DbField": "2",
+                    "Select": "0",
+                    "Weigth": "35"
+                },
+                {
+                    "DispName": "三个月涨跌幅",
+                    "DbField": "2",
+                    "Select": "0",
+                    "Weigth": "35"
+                },
+                {
+                    "DispName": "六个月涨跌幅",
+                    "DbField": "2",
+                    "Select": "0",
+                    "Weigth": "35"
+                },
+                {
+                    "DispName": "十二月涨跌幅",
+                    "DbField": "2",
+                    "Select": "0",
+                    "Weigth": "35"
+                }
+            ]
+        }
+    ],
+    "rootTab02": "个股基本面",
+    "root02Item": [
+        {
+            "DispName": "偿债能力",
+            "Item": [
+                {
+                    "DispName": "流动比率",
+                    "DbField": "2",
+                    "Select": "0",
+                    "Weigth": "35"
+                },
+                {
+                    "DispName": "速动比率",
+                    "DbField": "2",
+                    "Select": "0",
+                    "Weigth": "35"
+                },
+                {
+                    "DispName": "现金比率",
+                    "DbField": "2",
+                    "Select": "0",
+                    "Weigth": "35"
+                },
+                {
+                    "DispName": "资产负债率",
+                    "DbField": "2",
+                    "Select": "0",
+                    "Weigth": "35"
+                },
+                {
+                    "DispName": "产权比率",
+                    "DbField": "2",
+                    "Select": "0",
+                    "Weigth": "35"
+                },
+                {
+                    "DispName": "权益乘数",
+                    "DbField": "2",
+                    "Select": "0",
+                    "Weigth": "35"
+                },
+                {
+                    "DispName": "利益保障倍数",
+                    "DbField": "2",
+                    "Select": "0",
+                    "Weigth": "35"
+                },
+                {
+                    "DispName": "现金流量债务比",
+                    "DbField": "2",
+                    "Select": "0",
+                    "Weigth": "35"
+                },
+                {
+                    "DispName": "应收账款周转率",
+                    "DbField": "2",
+                    "Select": "0",
+                    "Weigth": "35"
+                },
+                {
+                    "DispName": "现金流量债务比",
+                    "DbField": "2",
+                    "Select": "0",
+                    "Weigth": "35"
+                },
+                {
+                    "DispName": "流动资产周转率",
+                    "DbField": "2",
+                    "Select": "0",
+                    "Weigth": "35"
+                },
+                {
+                    "DispName": "总资产周转率",
+                    "DbField": "2",
+                    "Select": "0",
+                    "Weigth": "35"
+                }
+            ]
+        },
+        {
+            "DispName": "盈利能力",
+            "Item": [
+                {
+                    "DispName": "销售利润率",
+                    "DbField": "2",
+                    "Select": "0",
+                    "Weigth": "35"
+                },
+                {
+                    "DispName": "资产利润率",
+                    "DbField": "2",
+                    "Select": "0",
+                    "Weigth": "35"
+                },
+                {
+                    "DispName": "总资产报酬率ROA",
+                    "DbField": "2",
+                    "Select": "0",
+                    "Weigth": "35"
+                },
+                {
+                    "DispName": "营业利润／营业总收入",
+                    "DbField": "2",
+                    "Select": "0",
+                    "Weigth": "35"
+                },
+                {
+                    "DispName": "净资产收益率ROE",
+                    "DbField": "2",
+                    "Select": "0",
+                    "Weigth": "35"
+                }
+            ]
+        },
+        {
+            "DispName": "成长能力",
+            "Item": [
+                {
+                    "DispName": "营业收入（同比增长率）",
+                    "DbField": "2",
+                    "Select": "0",
+                    "Weigth": "35"
+                },
+                {
+                    "DispName": "营业利润（同比增长率）",
+                    "DbField": "2",
+                    "Select": "0",
+                    "Weigth": "35"
+                },
+                {
+                    "DispName": "总资产（同比增长率）",
+                    "DbField": "2",
+                    "Select": "0",
+                    "Weigth": "35"
+                }
+            ]
+        },
+        {
+            "DispName": "估值",
+            "Item": [
+                {
+                    "DispName": "市盈率",
+                    "DbField": "2",
+                    "Select": "0",
+                    "Weigth": "35"
+                },
+                {
+                    "DispName": "市净率",
+                    "DbField": "2",
+                    "Select": "0",
+                    "Weigth": "35"
+                },
+                {
+                    "DispName": "市销率",
+                    "DbField": "2",
+                    "Select": "0",
+                    "Weigth": "35"
+                }
+            ]
+        }
+    ]
+}
